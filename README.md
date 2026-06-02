@@ -4,6 +4,13 @@ A fast-paced Roblox typing game where players must type words as quickly and acc
 
 Inspired by the typing game featured in **Cyberthon**, Type to Survive challenges players to improve their typing speed, accuracy, and reaction time in an engaging and competitive environment.
 
+## Content
+- [Features](#features)
+- [Gameplay](#gameplay)
+- [Inspiration](#inspiration)
+- [Technologies Used](#technologies-used)
+- [Contributors](#contributors)
+
 ## Features
 
 - Fast-paced typing gameplay
@@ -22,7 +29,7 @@ Inspired by the typing game featured in **Cyberthon**, Type to Survive challenge
 
 ## Inspiration
 
-This project was inspired by the typing game played during **Cyberthon**. The goal was to recreate the excitement of rapid typing challenges while adding a Roblox-based experience. The main purpose of this game was to raise funds for Eden Friendship Club in NJC Funtasia 2026.
+This project was inspired by the typing game played during **Cyberthon**. The goal was to recreate the excitement of rapid typing challenges while adding a Roblox-based experience. The main purpose of this game was to raise funds for Eden Friendship Club during NJC Funtasia 2026.
 
 ## Technologies Used
 
@@ -31,7 +38,7 @@ This project was inspired by the typing game played during **Cyberthon**. The go
 - Roblox Services and APIs
 - Argon
 
-### Contributors
+## Contributors
 
 - Makers' 2025/2026
 - Lance from 25SH08
@@ -40,5 +47,7 @@ This project was inspired by the typing game played during **Cyberthon**. The go
 
 | Name(s) | Contributions |
 |---------|--------------|
-| Akshat, Lance | Coding |
-| Jovan | VFX |
+| [@KRUSTstation](https://github.com/KRUSTstation), Lance | Full Stack Development |
+| [@jovantanyx](https://github.com/jovantanyx) | Designing and Implementation of Visual Effects (VFX) |
+| [@heiicha](https://github.com/heiicha), [@SaturdaySans](https://github.com/SaturdaySans), [@chairta](https://github.com/chairta), [@s4trdust](https://github.com/s4trdust), [@corruptstarc6-dotcom](https://github.com/corruptstarc6-dotcom), Yong Loke | User Interface and Experience |
+| Hau Yu | Modelling |
