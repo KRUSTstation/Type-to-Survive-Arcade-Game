@@ -1,4 +1,4 @@
-# Type to Survive
+# Type to Survive (NJC Funtasia)
 
 A fast-paced Roblox typing game where players must type words as quickly and accurately as possible to stay alive and achieve the highest score.
 
@@ -40,8 +40,8 @@ This project was inspired by the typing game played during **Cyberthon**. The go
 
 ## Contributors
 
-- Makers' 2025/2026
-- Lance from 25SH08
+- NJC Makers' 2025/2026
+- Lance from NJC 25SH08
 
 ### Contribution Notes
 
