@@ -41,13 +41,13 @@ This project was inspired by the typing game played during **Cyberthon**. The go
 ## Contributors
 
 - NJC Makers' 2025/2026
-- Lance from NJC 25SH08
+- [@SuplierZWTF](https://github.com/SuplierZWTF) from NJC 25SH08
 
 ### Contribution Notes
 
 | Name(s) | Contributions |
 |---------|--------------|
-| [@KRUSTstation](https://github.com/KRUSTstation), Lance | Full Stack Development |
+| [@KRUSTstation](https://github.com/KRUSTstation), [@SuplierZWTF](https://github.com/SuplierZWTF)  | Full Stack Development |
 | [@jovantanyx](https://github.com/jovantanyx) | Designing and Implementation of Visual Effects (VFX) |
 | [@heiicha](https://github.com/heiicha), [@SaturdaySans](https://github.com/SaturdaySans), [@chairta](https://github.com/chairta), [@s4trdust](https://github.com/s4trdust), [@corruptstarc6-dotcom](https://github.com/corruptstarc6-dotcom), [@Woopering](https://github.com/Woopering) | User Interface and Experience |
 | [@BoredDoggo](https://github.com/BoredDoggo) | Modelling |
